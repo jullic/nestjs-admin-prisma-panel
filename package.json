@@ -1,6 +1,6 @@
 {
 	"name": "nestjs-admin-prisma-panel",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "mapping prisma for admin db panel",
 	"author": "Alexander Lvov",
 	"license": "UNLICENSED",
